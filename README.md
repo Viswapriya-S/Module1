@@ -1,6 +1,6 @@
 # PYTHON PROGRAMMMINDG MODULE 1
-### date : 13/10/2025
-### NAME : Bhavitra B
+
+### NAME : VISWAPRIYA S
 ### REGISTER NUMBER : 25012160
 # Ex 01: Conditional Statements in Python: Even or Odd Checker
 
